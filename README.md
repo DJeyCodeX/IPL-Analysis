@@ -208,7 +208,7 @@ Best suited technologies:
         FIELDS TERMINATED BY ','
         STORED AS TEXTFILE ;
 
-5) Tableau Visualisations
+## Tableau Visualisations
 
   a. Top 10 Batsmen with most runs  
 
