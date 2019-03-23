@@ -189,7 +189,7 @@ Best suited technologies:
 
 3) Loading and Storing Hive Data into Pig Relation
 
-    Run the Pig Script for the Analysis & computations(ipl.pig)
+        Run the Pig Script for the Analysis & computations(ipl.pig)
 
 4) Storing the output in Hive Table
 
